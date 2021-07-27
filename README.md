@@ -1,3 +1,5 @@
+<h1>ARCHIVED</h1>
+
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/colenh/krowa/main/docs_include/banner.svg" alt="krowa" width="250"/>
     <br>
